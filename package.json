@@ -1,6 +1,7 @@
 {
   "name": "reactapi",
   "private": true,
+  "homepage": "http://Martin-00789.github.io/Pokemon-API-React",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
